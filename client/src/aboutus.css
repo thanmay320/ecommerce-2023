@@ -1,0 +1,21 @@
+.company-main{
+    background-image: url(../public/images/About-Cover-Image-Final\ \(1\).jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.about-section{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    font-size: 60px;
+}
+.about-chairman{
+    background-color: rgba(244,244,244,255);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+
+
